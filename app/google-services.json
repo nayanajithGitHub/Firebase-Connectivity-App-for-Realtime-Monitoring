@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "948870308041",
+    "firebase_url": "https://testnew-smart-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testnew-smart",
+    "storage_bucket": "testnew-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948870308041:android:4f058a7fe7217b199b2d18",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_n3_DPppxcM2p57TWQ9c3YpP-GmJf3Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948870308041:android:edf52e98a711de0b9b2d18",
+        "android_client_info": {
+          "package_name": "com.example.smartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_n3_DPppxcM2p57TWQ9c3YpP-GmJf3Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
